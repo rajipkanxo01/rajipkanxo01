@@ -33,4 +33,4 @@ Hi 👋 My name is Rajib Paudyal
 
 <a href="https://github.com/rajipkanxo01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajipkanxo01&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<figure><embed src="https://wakatime.com/share/@48a708f8-8f2c-4b16-9660-3cdcd7d92b47/23ce83bb-2a66-4b82-80be-e9596bbeaf67.svg"></embed></figure>
+
