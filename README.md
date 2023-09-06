@@ -18,6 +18,8 @@ Hi 👋 My name is Rajib Paudyal
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
+[![Rajib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajipkanxo01)](https://github.com/rajipkanxo01/github-readme-stats)
+
 
 ### Socials
 
