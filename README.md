@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rajib Paudyal</h1>
-<h3 align="center">A passionate fellow from Nepal, studying Software Engineering in Denmark.</h3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajipkanxo01&label=Profile%20views&color=0e75b6&style=flat" alt="rajipkanxo01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajipkanxo01" alt="rajipkanxo01" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Waste Management System**
 
 - 🌱 I’m currently learning **React, C**
 
-- 👨‍💻 All of my projects are available at [https://rajipkanxo01.github.io/](https://rajipkanxo01.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kanxo_rajip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanxo_rajip" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/rajib-paudyal-0a7325229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajib-paudyal-0a7325229/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajipkanxo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajipkanxo01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
