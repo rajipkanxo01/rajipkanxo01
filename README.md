@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajipkanxo01&label=Profile%20views&color=0e75b6&style=flat" alt="rajipkanxo01" /> </p>
 
-- 🔭 I’m currently working on **Smart Waste Management System**
+- 🔭 I’m currently working on **UNO Multiplayer Game**
 
-- 🌱 I’m currently learning **React, C**
+- 🌱 I’m currently learning **Vue.js, WebSocket, NextJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
